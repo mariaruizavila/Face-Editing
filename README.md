@@ -1,6 +1,6 @@
 # Face Editing
 
-Official implementation for the Bachelors Thesis project.
+Official implementation for my Bachelors Thesis project.
 
 ## Acknowledgements
 
